@@ -1,3 +1,3 @@
 Futura DEV Web e Mobile
 
-Aprimorando meu conhecimento em HTML, CSS,JS e Java.
+Aprimorando meu conhecimento em HTML, Python, CSS,JS e Java.
